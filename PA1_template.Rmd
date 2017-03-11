@@ -1,5 +1,6 @@
 ###Introduction
 ````{r}
+library(rmarkdown)
 library(knitr)
 opts_chunk$set(fig.path = './figure/')
 ````
